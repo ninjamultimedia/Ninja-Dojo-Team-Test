@@ -5,3 +5,4 @@ New changes are on the way
 
 On a new branch
 testing new pull request
+wierd things happen when playing with git
